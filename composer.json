@@ -1,0 +1,13 @@
+{
+    "name": "howkins/pjsbackup",
+    "description": "Backup filesystem",
+    "license": "MIT",
+    "keywords": ["laravel", "backup"],
+    "require": {},
+    "minimum-stability": "dev",
+    "autoload": {
+    	"psr-4": {
+    		"howkins\\pjsbackup\\": "src"
+    	}
+    }
+}
